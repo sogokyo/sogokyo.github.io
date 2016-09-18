@@ -1,0 +1,67 @@
+body {
+	text-align: left; 
+/*	background-color: white; */
+	text-decoration: none; 
+	/*background: url("http://cdn.wallpapersafari.com/65/96/r3sGSB.jpg");*/
+	background: url("http://i.imgur.com/q0FaaAk.jpg");
+	background-size: cover; color: #fff;
+}
+
+h1 {
+	font-family: "Amazing Grotesk", sans-serif; font-size: 50px; letter-spacing: 0px; 
+	text-transform: uppercase; color: rgba(204,255,255,0.7); background-color: #19407F;
+	padding: 4px 0px 0px 15px; 
+}
+
+h2 {
+	font-family: "Gotham Light", sans-serif; font-size: 16px; font-weight: normal; color: fff; 
+	text-transform: uppercase; background-color: rgba(255,255,255,0.3); padding: 9px 15px 5px 15px;
+}
+
+h3 {
+	font-family: "Amazing Grotesk", sans-serif; font-weight: 100; font-size: 45pt; line-height: 70px; color: rgba(255,255,255, 0.4);
+	margin-right: 60%; 	margin-left: 30px; text-transform: 
+}
+
+h6 {
+	font-family: "Gotham Medium", sans-serif; font-weight: lighter; font-size: 10px; text-transform: uppercase; 
+	text-align: right; margin-left: 30px; margin-right: 20px;
+}
+
+#index_head {
+	font-weight: bold;
+}
+
+hr {
+	margin: none;
+}
+
+#below_head {
+	width: 40%; margin-left: 30px; margin-right: 60%;
+}
+
+p {
+	font-family: "Melior", sans-serif; font-weight: lighter; font-size: 16px; line-height: 25px; color: rgba(255,255,255, 0.7);
+	margin-right: 60%;  margin-left: 30px;
+}
+
+ul {
+	font-family: "Gotham Book", sans-serif; font-size: 11px; line-height: 16px; font-style: italic; 
+	text-align: right; color: #7F7E7A; margin-right: 20px;
+}
+
+div {
+	font-family: "Gotham Light", sans-serif; font-size: 11px; color: #fff; margin-left: 30px; margin-right: 30px;
+}
+
+#end_url {
+	text-align: right; margin-right: 20px;
+
+}
+
+/*colors can have just 3 figs if all same (black, white, greys)*/
+
+/*NAR blue: #19407F*/ 
+/*Nikkers blue: #0066FF*/
+/*C80: #33FFFF*/
+/*background gray: #EDEDE8*/
