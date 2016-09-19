@@ -3,29 +3,29 @@ body {
 /*	background-color: white; */
 	text-decoration: none; 
 	/*background: url("http://cdn.wallpapersafari.com/65/96/r3sGSB.jpg");*/
-	background: url("http://i.imgur.com/q0FaaAk.jpg");
+	background: url("https://tokyobling.files.wordpress.com/2010/04/yokohama_6142_web.jpg");
 	background-size: cover; color: #fff;
 }
 
 h1 {
-	font-family: "Amazing Grotesk", sans-serif; font-size: 50px; letter-spacing: 0px; 
-	text-transform: uppercase; color: rgba(204,255,255,0.7); background-color: #19407F;
-	padding: 4px 0px 0px 15px; 
+	font-family: "Arial Black", sans-serif; font-size: 50px; letter-spacing: 0px; /*font-weight: bolder;*/
+	/*text-transform: uppercase; */word-spacing: -4px; color: rgba(204,255,255,0.7); background-color: #19407F;
+	padding: 6px 0px 10px 15px; 
 }
 
 h2 {
-	font-family: "Gotham Light", sans-serif; font-size: 16px; font-weight: normal; color: fff; 
-	text-transform: uppercase; background-color: rgba(255,255,255,0.3); padding: 9px 15px 5px 15px;
+	font-family: "Trebuchet MS", sans-serif; font-size: 16px; font-weight: 100; letter-spacing: 1.5px; color: fff; 
+	text-transform: uppercase; background-color: rgba(255,255,255,0.3); padding: 7px 15px 8px 15px;
 }
 
 h3 {
-	font-family: "Amazing Grotesk", sans-serif; font-weight: 100; font-size: 45pt; line-height: 70px; color: rgba(255,255,255, 0.4);
-	margin-right: 60%; 	margin-left: 30px; text-transform: 
+	font-family: "Trebuchet MS", sans-serif; font-weight: bolder; font-size: 70pt; line-height: 90px; 
+	color: rgba(255,255,255, 0.5); margin-right: 30%; margin-left: 30px; 
 }
 
 h6 {
-	font-family: "Gotham Medium", sans-serif; font-weight: lighter; font-size: 10px; text-transform: uppercase; 
-	text-align: right; margin-left: 30px; margin-right: 20px;
+	font-family: "Trebuchet MS", sans-serif; font-weight: lighter; font-size: 11px; text-transform: uppercase; 
+	text-align: right; letter-spacing: 2px; margin-left: 30px; margin-right: 20px;
 }
 
 #index_head {
@@ -37,21 +37,24 @@ hr {
 }
 
 #below_head {
-	width: 40%; margin-left: 30px; margin-right: 60%;
+	width: 36%; margin-left: 30px; margin-right: 70%;
 }
 
 p {
-	font-family: "Melior", sans-serif; font-weight: lighter; font-size: 16px; line-height: 25px; color: rgba(255,255,255, 0.7);
-	margin-right: 60%;  margin-left: 30px;
+	font-family: "Georgia", serif; font-weight: lighter; font-size: 16px; line-height: 30px; 
+	word-spacing: 1px; color: rgba(255,255,255, 0.7); margin-right: 62%; margin-left: 30px;
 }
 
 ul {
-	font-family: "Gotham Book", sans-serif; font-size: 11px; line-height: 16px; font-style: italic; 
-	text-align: right; color: #7F7E7A; margin-right: 20px;
+	font-family: "Verdana", sans-serif; font-weight: 100; font-size: 11px; line-height: 17px; 
+	font-style: italic; text-align: right; color: rgba(255,255,255, 0.4); margin-right: 20px; 
+	letter-spacing: 0.5px; list-style-type: none; text-transform: uppercase;
 }
 
+
 div {
-	font-family: "Gotham Light", sans-serif; font-size: 11px; color: #fff; margin-left: 30px; margin-right: 30px;
+	font-family: "Verdana", sans-serif; font-weight: lighter; font-size: 11px; color: #fff; 
+	letter-spacing: 0.5px; margin-left: 30px; margin-right: 30px;
 }
 
 #end_url {
