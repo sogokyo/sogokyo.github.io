@@ -1,6 +1,7 @@
 # sogokyo.github.io
 
 
+
 1. I’ve not used it before yet, but what do you reckon to Dreamweaver?
 2. What size photos should I be making pages if responsive?
 3. What’s the difference between specifying font-weight and using the font-style? (e.g. Helvetica Bold)
