@@ -1,38 +1,42 @@
 body {
-	text-align: left; 
-/*	background-color: white; */
 	text-decoration: none; 
 	/*background: url("http://cdn.wallpapersafari.com/65/96/r3sGSB.jpg");*/
 	background: url("https://tokyobling.files.wordpress.com/2010/04/yokohama_6142_web.jpg");
-	background-size: cover; color: #fff;
+	background-size: 110%; background-repeat: no-repeat; background-color: #000;
+}
+
+header {
+		background-color: #003366; padding: 40px 100% 15px 10px; margin: -20px -30px 0px -10px;
+		width: 650px;
+}
+
+menu {
+	background-color: #b4b4af; width:2000px; height: 20px; margin: 0px -10px 5px -10px; 
+}
+
+nav a {
+	font-family: "Trebuchet MS", sans-serif; font-size: 11px; font-weight: lighter; text-align: left; 
+	color: #373534; margin: 0px 0px 5px -30px; padding: 4px 20px 8px 30px;
 }
 
 h1 {
-	font-family: "Arial Black", sans-serif; font-size: 50px; letter-spacing: 0px; word-spacing: -4px; 
-	color: rgba(204,255,255,0.7); background-color: #19407F; padding: 6px 0px 10px 15px; 
+	font-family: "Trebuchet MS", sans-serif; font-size: 13px; font-weight: 100; letter-spacing: 3px; 
+	color: #fff; text-transform: uppercase; background-color: rgba(0,0,0,0.4); 
+	padding: 6px 40px 6px 40px; margin: 0px -10px 0px -10px;
 }
 
 h2 {
-	font-family: "Trebuchet MS", sans-serif; font-size: 16px; font-weight: 100; letter-spacing: 1.5px; color: fff; 
-	text-transform: uppercase; background-color: rgba(255,255,255,0.3); padding: 7px 15px 8px 15px;
+	font-family: "Trebuchet MS", sans-serif; font-weight: bolder; font-size: 70pt; line-height: 90px; 
+	color: rgba(255,255,255, 0.5); margin: 60px 30% 20px 30px;
 }
 
 h3 {
-	font-family: "Trebuchet MS", sans-serif; font-weight: bolder; font-size: 70pt; line-height: 90px; 
-	color: rgba(255,255,255, 0.5); margin-right: 30%; margin-left: 30px; 
-}
-
-h4 {
 	font-family: "Trebuchet MS", sans-serif; font-weight: lighter; font-size: 11px; text-transform: uppercase; 
-	text-align: right; letter-spacing: 2px; margin-left: 30px; margin-right: 20px;
-}
-
-#index_head {
-	font-weight: bold;
+	text-align: right; letter-spacing: 2px; color: #fff; margin-left: 30px; margin-right: 20px; margin-bottom: -3px;
 }
 
 hr {
-	margin: none;
+	margin-left: 30px; margin-bottom: 50px; width: 67%;
 }
 
 #below_head {
@@ -47,8 +51,13 @@ p {
 
 ul {
 	font-family: "Verdana", sans-serif; font-weight: 100; font-size: 10px; line-height: 17px; 
-	font-style: italic; text-align: right; color: rgba(255,255,255, 0.4); margin-right: 20px; 
+	font-style: italic; text-align: right; color: rgba(255,255,255, 0.6); margin-right: 20px; 
 	letter-spacing: 0.5px; list-style-type: none; text-transform: uppercase;
+}
+
+a {
+	color: #5ba4da;;
+	text-decoration: none;
 }
 
 
@@ -58,15 +67,26 @@ div {
 }
 
 #para {
-		margin-left: 30px; margin-right: 62%; /*border-color: rgba(126,206,244,0.5);*/
+		margin-left: 30px; margin-right: 62%; border: 2px solid rgba(255,255,255,0.5);
 }
 
 #end_url {
-	text-align: right; margin-right: 20px;
+	text-align: right; margin-right: 20px; 
 
 }
 
-/*colors can have just 3 figs if all same (black, white, greys)*/
+#back_to_top {
+	font-family: "Trebuchet MS", sans-serif; font-size: 12px; 
+	text-align: center; margin-right: 20px; color: #5ba4da;
+}
+
+img {
+	width: 36%; margin-left: 30px;
+}
+
+header, h1, nav a {
+
+}
 
 /*Review blue: #19407F*/ 
 /*Nk blue: #0066FF*/
