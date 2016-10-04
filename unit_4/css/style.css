@@ -1,0 +1,219 @@
+main {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+
+body {
+	text-decoration: none; 
+	/*background: url("http://cdn.wallpapersafari.com/65/96/r3sGSB.jpg");*/
+	background: url("https://tokyobling.files.wordpress.com/2010/04/yokohama_6142_web.jpg"); 
+	background-size: 110%; 
+	background-repeat: no-repeat; 
+	background-color: #000;
+}
+
+header {
+		background-color: #003366; 
+		padding: 25px 100% 10px 50px; 
+		margin: -10px -25px 0px -25px;
+		width: 650px;
+}
+
+menu {
+	background-color: #b4b4af; 
+	width:2000px; height: 20px; 
+	margin: 0px -10px 5px -25px; 
+}
+
+nav a {
+	font-family: "Merriweather Sans Regular", sans-serif; 
+	font-size: 11px; 
+	/*font-weight: 400;*/
+	text-align: left; 
+	color: #373534; 
+	margin: 0px 0px 5px -15px; 
+	padding: 4px 12px 8px 25px;
+}
+
+nav a:link {
+	color: #373534;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #0066cc;
+	background-color: transparent;
+}
+
+a {
+	color: #5ba4da;
+	text-decoration: none;
+}
+
+a:link {
+  color: #5ba4da;
+  background-color: transparent;
+} 
+
+a:hover {
+  color: #00cccc;
+  background-color: transparent;
+}
+
+
+
+img {
+	width: 40%; 
+	margin-left: 0px;
+}
+
+figure {
+	margin-left: 0px;	
+}
+
+header, h1, nav a {
+
+}
+
+
+h1 {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-size: 11.5px; 
+	font-weight: 500; 
+	letter-spacing: 3px; 
+	color: #fff; 
+	text-transform: uppercase; 
+	background-color: rgba(0,0,0,0.4); 
+	padding: 6px 40px 6px 30px; 
+	margin: 0px -10px 0px -5px;
+}
+
+h2 {
+	font-family: "Bitter", serif; 
+	font-weight: 700; 
+	font-size: 63pt; 
+	line-height: 1.15em; 
+	letter-spacing: 0px; 
+	color: rgba(255,255,255, 0.5); 
+	margin: 50px 40% 5px -10px;
+}
+
+h3 {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-weight: lighter; 
+	font-size: 11px; 
+	text-transform: uppercase; 
+	text-align: right; 
+	letter-spacing: 2px; 
+	color: #fff; 
+	margin-right: 2.5em; 
+	margin-bottom: -3px;  
+}
+
+
+p {
+	font-family: "Noto Serif", serif; 
+	font-weight: 100;
+	font-size: 14px; 
+	line-height: 2.2em;
+	letter-spacing: 0.5px;
+	color: rgb(255,255,255); 
+	margin-right: 61%;
+
+}
+
+.first_para {
+	font-family: "Noto Serif", serif; 
+	font-weight: 100; 
+	font-size: 24px; 
+	line-height: 1.5em; 
+	/*word-spacing: 0px; */
+	letter-spacing: -0.3px;
+	color: rgba(255,255,255, 0.4); 
+}
+
+.captions {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-weight: 100; 
+	font-size: 11.5px;
+	line-height: 1.6em; 
+
+}
+
+ul {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-weight: 300; 
+	font-size: 10px; 
+	font-style: italic; 
+	line-height: 1.7em; 
+	text-align: right; 
+	color: rgba(255,255,255,0.5); 
+	margin-right: 3em; 
+	letter-spacing: 0.5px; 
+	list-style-type: none; 
+	text-transform: uppercase;
+}
+
+div {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-weight: 800; 
+	font-size: 11px; 
+	color: #fff; 
+	letter-spacing: 0.5px; 
+	margin-left: 3em; 
+	margin-right: 3em;
+}
+
+hr {
+	margin-bottom: 50px; 
+	width: 63%;
+}
+
+
+#head_underline {
+		width: 60%;
+		margin-left: -5px; 
+		border: none; 
+		border-top: 2px dotted rgba(255,255,255,0.3);
+}
+
+.caption_line {
+	margin-right: 60%; 
+	width: 40%; 
+	border: none; 
+	border-top: 2px dotted rgba(255,255,255,0.3);
+}
+
+/*#vertical_line {
+		border-left: 1px solid rgb(70,70,70);
+}*/
+
+
+#end_url {
+	text-align: right; 
+	margin-right: 20px; 
+
+}
+
+#back_to_top {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-size: 11px; 
+	text-align: center; 
+	margin-right: 47%; 
+	margin-left: 47%; 
+	color: #5ba4da;
+	padding: 0.2em 0.9em 0.3em 1em; 
+	border-style: solid; 
+	border-radius: 5px;
+	border-width: 1px; 
+	border-color: rgba(255,255,255,0.3);
+	background-color: rgba(255,255,255,0.1);
+}
+
+
+
+/*Review blue: #19407F*/ 
+/*Nk blue: #0066FF*/
+/*C80: #33FFFF*/
+/*background gray: #EDEDE8*/
