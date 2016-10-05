@@ -32,9 +32,15 @@ nav a {
 	/*font-weight: 400;*/
 	text-align: left; 
 	color: #373534; 
-	margin: 0px 0px 5px -15px; 
-	padding: 4px 12px 8px 25px;
+	/*margin: 0px 0px 0px 0px; */
+	padding: 4px 15px 3px 15px;
+	/*border-right: 1px solid #787879;*/
+	/*border-left: 1px solid #787879;*/
 }
+
+/*nav a:last-child{
+	border-right:0;
+}*/
 
 nav a:link {
 	color: #373534;
@@ -42,8 +48,8 @@ nav a:link {
 }
 
 nav a:hover {
-	color: #0066cc;
-	background-color: transparent;
+	color: white;
+	background-color: #0066cc;
 }
 
 a {
