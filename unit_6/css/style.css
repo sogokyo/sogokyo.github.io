@@ -295,7 +295,7 @@ figure {
 	color: #0093d5; 
 	margin: 2em 0 0 0;
 	width: 25%;
-	display: inline;
+	/*display: inline;*/
 	/*float: left;*/
 
 }
@@ -310,7 +310,7 @@ figure {
 	color: #9f9e9a; 
 	/*float: left;*/
 	width: 25%;
-	display: inline;
+	/*display: inline;*/
 }
 
 
@@ -326,7 +326,7 @@ figure {
 	color: #9f9e9a; 
 	margin-top: 1em;
 	margin-bottom: 2em;
-	display: inline;
+	/*display: inline;*/
 }
 
 h1 {
@@ -341,7 +341,7 @@ h1 {
 	padding-bottom: 0.5em;
 	/*float: left;*/
 	width: 25%;
-	display: inline;
+	/*display: inline;*/
 }
 
 
@@ -354,7 +354,7 @@ li {
 	color: #0053a6; 
 	margin: .5em 0 0 0;
 	width: 25%;
-	display: inline-block;
+	/*display: inline-block;*/
 }
 
 .bullets {
@@ -371,5 +371,4 @@ li {
 	border-top: 1px solid #c7c7c5;
 	width: 50%;
 	margin: 0 3% 0 3%;
-	float: left;
 }
