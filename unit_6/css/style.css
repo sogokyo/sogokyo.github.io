@@ -155,6 +155,11 @@ a:hover {
 }
 
 
+#article {
+	margin-right: 3%;
+	display: inline-block;
+}
+
 main {
 	/*margin-left: 3%;*/
 }
@@ -260,7 +265,7 @@ figure {
 	margin-bottom: 0.5em;
 	margin-left: 3%;
 	/*margin-right: 10px;*/
-	width: 50%;
+	width: 95%;
 	float: left;
 }
 
@@ -290,6 +295,7 @@ figure {
 	color: #0093d5; 
 	margin: 2em 0 0 0;
 	width: 25%;
+	display: inline;
 	/*float: left;*/
 
 }
@@ -304,6 +310,7 @@ figure {
 	color: #9f9e9a; 
 	/*float: left;*/
 	width: 25%;
+	display: inline;
 }
 
 
@@ -319,6 +326,7 @@ figure {
 	color: #9f9e9a; 
 	margin-top: 1em;
 	margin-bottom: 2em;
+	display: inline;
 }
 
 h1 {
@@ -333,6 +341,7 @@ h1 {
 	padding-bottom: 0.5em;
 	/*float: left;*/
 	width: 25%;
+	display: inline;
 }
 
 
@@ -345,6 +354,7 @@ li {
 	color: #0053a6; 
 	margin: .5em 0 0 0;
 	width: 25%;
+	display: inline-block;
 }
 
 .bullets {
@@ -354,10 +364,12 @@ li {
 	line-height: 14px;
 	color: #0093d5;
 	vertical-align: text-bottom;
+	display: inline;
 }
 
 .article_line {
 	border-top: 1px solid #c7c7c5;
 	width: 50%;
 	margin: 0 3% 0 3%;
+	float: left;
 }
