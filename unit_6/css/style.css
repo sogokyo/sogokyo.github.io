@@ -270,6 +270,10 @@ figure {
 }
 
 
+#rightside {
+	display: inline-block;
+}
+
 .captions {
 	font-family: "Merriweather Sans", sans-serif; 
 
