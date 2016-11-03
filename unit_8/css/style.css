@@ -833,18 +833,18 @@ a:hover {
 }
 
 #right_sidebar {
-	float: none;
+	/*float: none;*/
 }
 
 h1 {
-		width: 97%;
+		width: 67%;
 		/*float: none;*/
 		display: block;
 		margin: 0;
 	}
 
 	#t1_photos {
-		width: 97%;
+		width: 68%;
 		float: none;
 		margin-right: 3%;
 	}
@@ -856,9 +856,12 @@ h1 {
 }
 
 	.t1_related_stories {
-		width: 97%;
+		width: 68%;
 	}
 
+	.t1_subhead {
+		width: 68%;
+	}
 
 
 	h2 {
