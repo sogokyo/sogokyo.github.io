@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"w",
+				"word-spacing"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"light",
+				"Light"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/unit_3/index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/unit_3/css/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.9 test (Responsive pic!)/css/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.9 test (Responsive pic!)/index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit3 Qs/testin.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit3 Qs/css/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.9 test/css/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.9 test/index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3/CSS/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3/index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/unit_3/images/Screen Shot 2016-08-04 at 18.23.34.png",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.6 practice/CSS/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 1/CSS/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 1/Index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3/index2.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3/CSS/style2.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3/CSS/index2.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.6 practice/unit3_6practice.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/Unit 3.6 practice/unit3_6practiceCorrect.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/unit_2/Index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/ News Bulletin/CSS/Main.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/ News Bulletin/Index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Unit 1/Index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Unit1 Work-through.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Start recap.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Index.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/CSS/style.css",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Start.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Remembering first step.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/<!DOCTYPE html>.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/Mitch.html",
+		"/Users/tsangmichael/Documents/DESIGN/General Assembly Sep7-Nov16/sogokyo.github.io/Unit1/style.css",
+		"/Users/tsangmichael/Desktop/NAR index.html",
+		"/Users/tsangmichael/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#para",
+			"ul",
+			"li",
+			"Thailand",
+			"Gotham Medium",
+			"Amazing Grotesk",
+			"255",
+			"p",
+			"div",
+			"255",
+			"<img src=\"images/Elephant.png\">",
+			"div",
+			"3",
+			"margin",
+			"li",
+			"ul",
+			"li",
+			"ul",
+			"Helvetica",
+			"4",
+			"A",
+			"font-family: Arial",
+			"sans-serif",
+			"sans",
+			"monospace",
+			"Arial",
+			"Asia",
+			"<p>",
+			"a",
+			"<a>\"Read more\"</a>",
+			"Subtitle",
+			"Tuesday",
+			"Monday",
+			"Wednesday",
+			"Monday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday",
+			"quis",
+			"i",
+			"Michael",
+			"head",
+			"title",
+			"Thursday",
+			"Tuesday\n",
+			"Friday",
+			"Wednesday",
+			"Friday",
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Asia"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
