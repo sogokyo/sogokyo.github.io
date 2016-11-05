@@ -46,6 +46,10 @@ table {
 
 
 
+body {
+	font-size: 10px;
+}
+
 #fixed_width {
 	max-width: 1280px;
 	margin: 0 auto;
@@ -86,7 +90,7 @@ table {
 
 #tagline {
 	font-family: "Merriweather Sans", sans-serif; 
-	font-size: 11px; 
+	font-size: 1.1em; 
 	font-weight: lighter; 
 	/*width: 300px;*/
 	color: rgba(255,255,255,.5); 
@@ -100,7 +104,7 @@ table {
 nav {
 	font-family: "Merriweather Sans Regular", sans-serif; 
 	color: #494848;
-	font-size: 13.5px;
+	font-size: 1.35em;
 	text-align: left;
 	border-bottom: 1px solid white;
 	width: 100%;
@@ -151,7 +155,7 @@ a:hover {
 
 .nav_sections {
 	font-family: "Merriweather Sans", sans-serif; 
-	font-size: 11px; 
+	font-size: 1.1em; 
 	color: #494848;
 	padding: .3em 0 0.2em 0;
 	display: inline-block;
@@ -310,7 +314,7 @@ img:hover {
 .t1_topic {
 	font-family: "Merriweather Sans", sans-serif;  
 	font-weight: 100; 
-	font-size: 9.5px; 
+	font-size: .95em; 
 	line-height: 1.15em; 
 	text-align: left;
 	text-transform: uppercase;
@@ -323,7 +327,7 @@ img:hover {
 .timestamp {
 	font-family: "Merriweather Sans", sans-serif;
 	font-weight: lighter; 
-	font-size: 8.5px;
+	font-size: 0.85em;
 	text-transform: uppercase;
 	line-height: 1.15em; 
 	text-align: left;
@@ -349,7 +353,7 @@ img:hover {
 h1 {
 	font-family: "Bitter", serif; 
 	font-weight: 900; 
-	font-size: 24px;
+	font-size: 2.4em;
 	color: #494848;
 	line-height: 1.25em; 
 	text-align: left;
@@ -381,8 +385,8 @@ h1 {
 	font-family: "Bitter", serif;
 	font-style: italic;  
 	font-weight: lighter; 
-	font-size: 14px; 
-	line-height: 1.3em; 
+	font-size: 1.4em; 
+	line-height: 1.45em; 
 	text-align: left;
 	color: #848481; 
 	/*float: left;*/
@@ -393,13 +397,13 @@ h1 {
 
 .t1_related_stories {
 	font-family: "Merriweather Sans", sans-serif; 
-	font-size: 12px;
+	font-size: 1.2em;
 	line-height: 1.4em;
 	color: #00468f;
 	display: block;
 	margin: .5em 0 0 .7em;
 	padding: 0px;
-	width: 65%;
+	width: 70%;
 	text-indent: -.8em;
 }
 
@@ -407,7 +411,7 @@ h1 {
 h2 {
 	font-family: "Bitter", serif; 
 	font-weight: 900; 
-	font-size: 18px;
+	font-size: 1.8em;
 	color: #494848;
 	line-height: 1.25em; 
 	margin-top: 0.2em;
@@ -425,7 +429,7 @@ h2 {
 .t2_topic {
 	font-family: "Merriweather Sans", sans-serif;  
 	font-weight: 100; 
-	font-size: 9.5px; 
+	font-size: .95em; 
 	line-height: 1em; 
 	text-align: left;
 	text-transform: uppercase;
@@ -439,8 +443,8 @@ h2 {
 	font-family: "Bitter", serif;
 	font-style: italic;  
 	font-weight: lighter; 
-	font-size: 12px; 
-	line-height: 1.3em; 
+	font-size: 1.3em; 
+	line-height: 1.35em; 
 	text-align: left;
 	color: #848481; 
 	margin-bottom: .6em;
@@ -449,7 +453,7 @@ h2 {
 
 .t2_related_stories {
 	font-family: "Merriweather Sans", sans-serif; 
-	font-size: 12px;
+	font-size: 1.2em;
 	text-align: left;
 	line-height: 1.4em;
 	color: #00468f;
@@ -483,17 +487,14 @@ h2 {
 
 
 h3 {
-	font-family: "Merriweather Sans", sans-serif; 
-	font-weight: bolder;
-	font-size: 12.5px;
-	text-align: left;
-	line-height: 1.4em;
-	letter-spacing: 1px;
-	color: black;
-	padding-bottom: .3em;
+	font-family: "Bitter", serif; 
+	font-weight: 900;
+	font-size: 1.8em;
+	line-height: 1.25em;
+	color: #494848;
+	padding-bottom: .5em;
 	display: inline-block;
 }
- 
 
 .t3_column1 {
 	width: 31.5%;
@@ -535,7 +536,7 @@ h3 {
 .t3_topic {
 	font-family: "Merriweather Sans", sans-serif;  
 	font-weight: 100; 
-	font-size: 9.5px; 
+	font-size: .95em; 
 	line-height: 1em; 
 	text-align: left;
 	text-transform: uppercase;
@@ -548,8 +549,8 @@ h3 {
 	font-family: "Bitter", serif;
 	font-style: italic;  
 	font-weight: lighter; 
-	font-size: 12px; 
-	line-height: 1.3em; 
+	font-size: 1.3em; 
+	line-height: 1.35em; 
 	text-align: left;
 	color: #848481; 
 	margin-bottom: .6em;
@@ -566,7 +567,17 @@ h3 {
 	/*clear: both;*/
 }
 
-#a3 {
+h4 {
+	font-family: "Merriweather Sans", sans-serif; 
+	font-weight: 900;
+	font-size: 1.4em;
+	line-height: 1.25em;
+	color: #494848;
+	padding-bottom: .5em;
+	display: inline-block;
+}
+
+#a3_box {
 	margin: 10px 0 0 0;
 	padding: 10px;
 	border: 1px solid white;
@@ -583,7 +594,7 @@ h3 {
 
 .a3_company {
 	font-family: "Merriweather Sans", sans-serif; 
-	font-size: 11.5px;
+	font-size: 1.15em;
 	font-weight: 900;
 	line-height: 1.6em;
 	color: red;
@@ -597,7 +608,7 @@ h3 {
 
 .a3_list {
 	font-family: "Merriweather Sans", sans-serif; 
-	font-size: 11.5px;
+	font-size: 1.15em;
 	font-weight: 900;
 	line-height: 1.6em;
 	color: #494848;
@@ -682,7 +693,7 @@ h3 {
 #offices_in {
 	font-family: "Merriweather Sans", sans-serif; 
 	font-weight: lighter; 
-	font-size: 10px; 
+	font-size: 1em; 
 	line-height: 2em;
 	text-transform: uppercase; 
 	text-align: center; 
@@ -705,7 +716,7 @@ h3 {
 li {
 	font-family: "Merriweather Sans", sans-serif; 
 	font-weight: 300; 
-	font-size: 10px; 
+	font-size: 1em; 
 	/*line-height: 1.8em; */
 	text-align: center; 
 	color: rgba(255,255,255,.3); 
@@ -721,10 +732,11 @@ li {
 }
 
 
+
 #end_url {
 	font-family: "Merriweather Sans", sans-serif; 
 	font-weight: 300; 
-	font-size: 12px; 
+	font-size: 1.2em; 
 	line-height: 1.8em; 
 	text-align: center; 
 	color: white; 
@@ -919,7 +931,7 @@ h1 {
 
 @media screen and (min-width: 320px) and (max-width:480px) {
 	body {
-		font-size: 10px;
+		font-size: 20px;
 		float: none;
 		width: auto;
 		display: block;
@@ -951,6 +963,7 @@ h1 {
 
 	h1 {
 		width: 100%;
+		font-size: 1.5em;
 	}
 
 	#t1_photos {
