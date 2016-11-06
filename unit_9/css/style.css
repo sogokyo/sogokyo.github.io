@@ -943,26 +943,26 @@ main {
 	.timestamp {
 		width: 96%;
 		margin: .5em 3% 1em 0%;
-		font-size: 1.4em;
+		font-size: 1.2em;
 		/*padding-left: -3%;*/
 	}
 
 	.t3_timestamp {
 		width: 96%;
 		margin: 1em 3% 1em 3%;
-		font-size: 1.4em;
+		font-size: 1.2em;
 		/*padding-left: -3%;*/
 	}
 
 	.t4_timestamp {
-		font-size: 1.4em;
+		font-size: 1.2em;
 		margin: 1em 3% 1em 0%;
 	}
 
 
 
 	#t1_topic {
-		font-size: 1.4em;
+		font-size: 1.2em;
 		width: 96%;
 	}
 
@@ -1066,7 +1066,7 @@ main {
 	.t3_topic1 {
 		margin-top: 1.7em;
 		width: 95%;
-		font-size: 1.1em;
+		font-size: 1.4em;
 	}
 
 	/*.t3_topic2 {
@@ -1077,7 +1077,7 @@ main {
 
 	.t3_topic3 {
 		margin-top: 0.3em;
-		font-size: 1.1em;
+		font-size: 1.4em;
 	}
 
 	.t3_column2 {
@@ -1127,7 +1127,7 @@ main {
 		/*}	*/
 .t3_topic_grey {
 	margin-top: -.8em;
-	font-size: 1.1em;
+	font-size: 1.4em;
 	width: 95%;
 	} 
 
