@@ -985,8 +985,9 @@ main {
 	}
 
 	.t1_related_stories {
-		display: block;
-		/*width: 97%;*/
+		width: 97%;
+		font-size: 1.7em;
+		line-height: 1.3em;
 		/*margin-right: 10em;*/
 	}
 
@@ -1037,6 +1038,10 @@ main {
 		margin: 0.5em 0 0 -106%;
 		padding: 0 0 0 1.5%;
 		width: 203%;
+		width: 97%;
+		font-size: 1.7em;
+		line-height: 1.3em;
+
 		/*border-bottom: 1px solid lightgrey;*/
 	}
 
