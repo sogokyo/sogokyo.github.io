@@ -292,7 +292,7 @@ h1 {
 
 
 #t1_photos {
-	margin: 0 1em 1em 0;
+	margin: 0 3% 1em 0;
 	width: 100%;
 	float: left;
 }
@@ -827,7 +827,7 @@ a:hover {
 
 
 .semifull_width {
-	width: 94%;	
+	width: 97%;	
 }
 
 
@@ -906,9 +906,14 @@ main {
 
 	h2 {
 		width: 99%;
+		font-size: 2.3em;
 		margin: 
 	}
 
+	.t2_subhead {
+			width: 99%;
+			font-size: 1.5em;
+		}
 
 	.t2_photos {
 		margin-bottom: -2em;
@@ -961,7 +966,7 @@ main {
 
 	.t3_column2 {
 		width: 48.5%;
-		margin: 2em 1% 0 0;
+		margin: 2em 0% 0 0;
 		padding-bottom: .5em;
 		background-color: transparent;
 	}
@@ -979,8 +984,20 @@ main {
 	.t3_photo1 {
 		width: 64%;
 		float: left;
-		margin: 2em 3%;	
-	}	
+		margin: 2em 1em 2em 3%;	
+	}
+
+	h3 {
+		width: 99%;
+		font-size: 2.3em;
+		margin: 
+	}
+
+	.t3_subhead {
+			width: 99%;
+			font-size: 1.5em;
+		}
+
 
 	.article_line {
 		margin-top: 2em;
