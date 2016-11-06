@@ -240,12 +240,36 @@ img:hover {
 	line-height: 1.15em; 
 	text-align: left;
 	color: #9f9e9a; 
-	margin: .5em 0 1em 0;
-	/*width: 100%;*/
+	margin: .5em 0 1em -3%;
+	width: 97%;
 	display: block;
 }
 
+.t3_timestamp {
+	font-family: "Merriweather Sans", sans-serif;
+	font-weight: lighter; 
+	font-size: 0.85em;
+	text-transform: uppercase;
+	line-height: 1.15em; 
+	text-align: left;
+	color: #9f9e9a; 
+	margin: .5em 0 1em 0%;
+	width: 97%;
+	display: block;
+}
 
+.t4_timestamp {
+	font-family: "Merriweather Sans", sans-serif;
+	font-weight: lighter; 
+	font-size: 0.85em;
+	text-transform: uppercase;
+	line-height: 1.15em; 
+	text-align: left;
+	color: #9f9e9a; 
+	margin: .5em 0 1em 0%;
+	width: 97%;
+	display: block;
+}
 
 .bullets {
 	font-family: "Merriweather Sans", sans-serif;  
@@ -917,10 +941,23 @@ main {
 
 	.timestamp {
 		width: 96%;
-		margin: .5em 3% 1em 3%;
+		margin: .5em 3% 1em 0%;
 		font-size: 1.1em;
 		/*padding-left: -3%;*/
 	}
+
+	.t3_timestamp {
+		width: 96%;
+		margin: 1em 3% 1em 3%;
+		font-size: 1.1em;
+		/*padding-left: -3%;*/
+	}
+
+	.t4_timestamp {
+		font-size: 1.1em;
+		margin: 1em 3% 1em 3%;
+	}
+
 
 
 	#t1_topic {
@@ -1179,10 +1216,13 @@ main {
 
 	.timestamp {
 		width: 96%;
-		margin: .5em 0 1em 0;
+		/*margin: .5em 0 1em 0;*/
+		font-size: 1.1em;
 	}
 
-
+	.t3_timestamp {
+		font-size: 1.1em;
+	}
 
 
 	h1 {
@@ -1193,6 +1233,7 @@ main {
 	.t1_subhead {
 		width: 96%;
 		font-size: 2.5em;
+		line-height: 1.3em;
 	}
 
 	#t1_rightside {
@@ -1226,7 +1267,8 @@ main {
 
 		.t2_subhead {
 			width: 96%;
-			font-size: 1.9em;
+			font-size: 2.1em;
+			line-height: 1.2em;
 		}
 
 
@@ -1272,7 +1314,8 @@ main {
 
 			.t3_subhead {
 				margin: 0 3%; 
-				font-size: 1.9em;
+				font-size: 2.1em;
+				line-height: 1.2em;
 			}
 
 			.t3_column1 {
@@ -1317,10 +1360,6 @@ main {
 			.t3_topic3 {
 				margin: 0 3%;
 			}
-
-	.timestamp {
-		margin: 1em 3%;
-	}
 
 
 #go_to_top {
