@@ -928,7 +928,8 @@ main {
 	
 	#t1_topic, #t2_topic, #t3_topic {
 		width: 96%;
-		margin: 1em 0 0 0
+		margin: 1em 0 0 0;
+		font-size: 1.2em;
 	} 
 
 	#t1_photos, #t2_photos, #t3_photos {
@@ -942,26 +943,26 @@ main {
 	.timestamp {
 		width: 96%;
 		margin: .5em 3% 1em 0%;
-		font-size: 1.1em;
+		font-size: 1.4em;
 		/*padding-left: -3%;*/
 	}
 
 	.t3_timestamp {
 		width: 96%;
 		margin: 1em 3% 1em 3%;
-		font-size: 1.1em;
+		font-size: 1.4em;
 		/*padding-left: -3%;*/
 	}
 
 	.t4_timestamp {
-		font-size: 1.1em;
-		margin: 1em 3% 1em 3%;
+		font-size: 1.4em;
+		margin: 1em 3% 1em 0%;
 	}
 
 
 
 	#t1_topic {
-		font-size: 1.1em;
+		font-size: 1.4em;
 		width: 96%;
 	}
 
@@ -975,7 +976,8 @@ main {
 
 	.t1_subhead {
 		width: 96%;
-		font-size: 2.2em;
+		font-size: 2.7em;
+		line-height: 1.3em;
 	}
 
 	#t1_rightside {
@@ -987,6 +989,8 @@ main {
 	.t1_related_stories {
 		display: block;
 		width: 97%;
+		font-size: 1.5em;
+		line-height: 1.4em;
 		/*margin-right: 10em;*/
 	}
 
@@ -1009,7 +1013,8 @@ main {
 
 	.t2_subhead {
 			width: 97%;
-			font-size: 1.5em;
+			font-size: 1.7em;
+			line-height: 1.3em;
 		}
 
 	.t2_photos {
@@ -1037,13 +1042,15 @@ main {
 		margin: 0.5em 0 0 -106%;
 		padding: 0 0 0 1.5%;
 		width: 203%;
+		font-size: 1.5em;
+		line-height: 1.4em;
 		/*border-bottom: 1px solid lightgrey;*/
 	}
 
 	.t2_topic {
 		padding-top: 1.5em;
-		font-size: 1.1em;
-		/*margin-top: -1em;*/
+		font-size: 1.4em;
+		margin-top: -.6em;
 	}	
 
 	
@@ -1104,7 +1111,8 @@ main {
 
 	.t3_subhead {
 			width: 95%;
-			font-size: 1.8em;
+			font-size: 1.9em;
+			line-height: 1.3em;
 		}
 
 
