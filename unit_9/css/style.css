@@ -958,6 +958,7 @@ main {
 
 	.t3_topic1 {
 		margin-top: 2em;
+		width: 95%;
 	}
 
 	.t3_topic3 {
@@ -988,13 +989,13 @@ main {
 	}
 
 	h3 {
-		width: 99%;
+		width: 95%;
 		font-size: 2.3em;
 		margin: 
 	}
 
 	.t3_subhead {
-			width: 99%;
+			width: 95%;
 			font-size: 1.5em;
 		}
 
