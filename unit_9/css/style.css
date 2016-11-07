@@ -193,8 +193,9 @@ a:hover {
 
 
 main {
-	width: auto;
+	width: 70%;
 	margin-left: 3%;
+	float: left;
 }
 
 
@@ -545,9 +546,9 @@ h3 {
 	background-color: lightgray;
 	width: 23%;
 	padding: 1em 1%;
-	height: 110vh;
+	min-height: 110vh;
 	float: right;
-	margin: -1.95em 0 -300% 0;
+	margin: -1.95em 0 0 0;
 	/*margin-bottom: -300%;*/
 }
 
@@ -633,7 +634,7 @@ h4 {
 }
 
 .semifull_width {
-	width: 74%;
+	width: 100%;
 	/*float: left;*/
 	/*clear: both;*/
 	/*background-color: yellow;*/
@@ -1415,6 +1416,10 @@ main {
 				margin: 0 3%;
 				font-size: 1.2em;
 				width: 96%;
+			}
+
+			.t4_timestamp {
+				margin-left: 3%;
 			}
 
 .a3_list {
