@@ -904,13 +904,13 @@ a:hover {
 }
 
 
-nav {
+/*nav {
 	min-width: 600px;
 	max-width: 801px;
 	margin-left: 10px;
 	margin-right: 10px;
 	text-align: center;
-}
+}*/
 
 
 
@@ -933,7 +933,7 @@ span{
   width:35px;
   height:4px;
   margin:5px 1.5em;
-  background-color:lightgrey;
+  background-color: rgba(255,255,255,.3);
   border-radius:4px;
 }
 
@@ -953,24 +953,44 @@ span{
 
 /*____________________________________________________________*/
 
-nav{
-    display:none;
-  }
+	nav{
+	display:none;
+	text-align: center;
+	min-width: 600px;
+	max-width: 801px;
+	}
   
-  nav a{
-    display:block;
-  }
+
+	nav a{
+	display:block;
+	}
+
+
+	nav a:hover {
+	color: white;
+	background-color: #0066cc;
+	transition: linear .15s;
+	padding-top: .7em;
+	padding-bottom: .7em;
+	float: center;
+	margin: 0em -2em;
+	}
+
   
   label{
     display:inline-block;
     float: right;
+    position:absolute;
+    right: 0;
+    top: 0;
   }
 
-  #toggle:checked + nav{
+  #toggle:checked + menu #navbar_grey nav {
     display:block;
     clear:both;
-    margin: 
+    margin-top: 0.5em;
   }
+
 
 
 
@@ -996,40 +1016,66 @@ img{ width:25px; }
 
 
 
-/*_______________________________________________________________*/
+/*________________________________________________________________*/
 
+.nav_sections {
+	line-height: 0em;
+	font-size: 1.5em; 
+	color: #494848;
+	display: block;
+	clear: both;
+	/*padding-top: .7em;*/
+	/*padding-bottom: .7em;*/
+	/*margin: .1em -1em .3em -1em;*/
+}
 
-
-
-
-/*.nav_sections {
-	margin-right: -.5em; 
-	margin-left: -.5em;
-	padding: 7px 0px 0em 0px;
-	text-align: left;
-}*/
+.navbar_lines {
+	border: none;
+}
 
 #navbar_grey {
-	background-color: transparent;
+	background-color: #ddddda;
+	height: 30.5em;
+	width: 100%;
+	margin: -1em 0 0em 0;
+	float: center;
+}
+
+nav a:hover {
+	color: white;
+	background-color: #0066cc;
+	transition: linear .15s;
+}
+
+
+/*nav a:link {
+	color: orange;
+	margin-top: 0em;
+	display: block;
+	clear: both;*/
+	/*padding: .5em 1em .5em 1em;*/
+	
+/*}*/
+
+
+
+/*________________________________________________________________*/
+
+
+
+
+
+/*#navbar_grey {
+	background-color: transparent;*/
 /*	height: 4.5em;
 	width: 100%;
 	margin: -1em 0 3em 0;*/
 }
 
-/*#nav_mobile_line1 {
-	border-bottom: 1px solid white;
-	margin-top: -2.7em;	
-}
-
-#nav_mobile_line2 {
-	border-bottom: 1px solid white;
-	margin-top: -2.4em;	
-}
 
 
-.navbar_lines {
-	border: none;
-}*/
+
+
 
 
 
