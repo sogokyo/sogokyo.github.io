@@ -79,7 +79,7 @@ body {
 #masthead_bar {
 	background-color: #003366;
 	width: 100%;
-	height: 90px;
+	height: 80px;
 	margin: 0 0 0 0;
 	float: left;
 }
@@ -90,7 +90,7 @@ body {
 		/*background-color: #003366; */
 		/*float: left;*/
 		display: inline-block;
-		margin: -68px 0 0 30px;
+		margin: -54px 0 0 30px;
 }
 
 #masthead:hover {
@@ -104,8 +104,7 @@ body {
 
 
 #toggle{
-  display:none;
-  margin: o;
+  display:block;
 }
 
 #tagline {
@@ -118,7 +117,7 @@ body {
 	display: inline-block;
 	font-style: italic; 
 	padding: 0 0 0 20px; 
-	margin: -42px 0 0 -10px;
+	margin: -30px 0 0 -10px;
 }
 
 
